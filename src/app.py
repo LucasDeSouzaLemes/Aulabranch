@@ -25,7 +25,3 @@ def main():
             else:
                 result = "Erro: Divisão por zero"
         
-        st.write(f"Resultado: {result}")
-
-if __name__ == "__main__":
-    main()
